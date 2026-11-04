@@ -1,0 +1,21 @@
+{
+  "current_session": "2026-10-28_21-34-54",
+  "messages": [
+    {
+      "role": "user",
+      "content": "223"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！来猜字谜吧～\n\n谜面：“一口咬掉牛尾巴”（打一字）\n\n猜猜看是什么字？"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "请回到字谜上来哦～ 当前谜面：“一口咬掉牛尾巴”（打一字），猜一个字吧！"
+    }
+  ]
+}

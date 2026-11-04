@@ -1,0 +1,21 @@
+{
+  "current_session": "2026-10-28_21-34-40",
+  "messages": [
+    {
+      "role": "user",
+      "content": "22'"
+    },
+    {
+      "role": "assistant",
+      "content": "你好呀！来玩字谜吧，先来一道：一口咬掉牛尾巴（打一字）"
+    },
+    {
+      "role": "user",
+      "content": "2e"
+    },
+    {
+      "role": "assistant",
+      "content": "核心字对不上哦，看来你没答出来~ 提示一下：这个字和“牛”字下面有关系，去掉一截再换个东西上去。再猜猜？"
+    }
+  ]
+}
